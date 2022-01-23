@@ -1,3 +1,27 @@
+body {
+  background: #92a8d1;
+}
+header {
+  color: #f7786b;
+}
+h1 {
+  text-align: center;
+}
+img{
+  border: 2px solid black;
+  border-radius: 6px;
+}
+footer {
+  color: #f7786b;
+}
+p {
+  color: #034f84;
+  font-style: italic;
+}
+ul{
+  font-family: monospace;
+}
+
 /* Give your page a fun background color */
 
 /* Make the header and footer a different color from the background */
